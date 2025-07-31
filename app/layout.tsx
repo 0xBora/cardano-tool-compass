@@ -22,7 +22,7 @@ const switzer = localFont({
 export const metadata: Metadata = {
   title: "Tool Compass: Your Smart Guide to Cardano Blockchain Data",
   description:
-    "Tool Compass is your go-to assistant for navigating the diverse and often overwhelming ecosystem of Cardano blockchain data solutions.",
+    "Tool Compass is your go-to assistant for navigating the diverse Cardano blockchain solutions.",
   icons: {
     icon: "/favicon.ico",
   },
